@@ -10,7 +10,7 @@ Then it will invoke `nyc mocha`, which runs the test files under `/test`.
 
 Note that any report for `common-typescript.cts` is missing, despite it being executed alongside the other files.
 
-The `/coverage` directory is checked into git to easily preview the issue. See the [index coverage](./coverage/index.html).
+The `/coverage` directory is checked into git to easily preview the issue. See the [index coverage](https://jacobley.github.io/istanbul-issue-recreation/coverage/index.html).
 
 ## CTS
 
